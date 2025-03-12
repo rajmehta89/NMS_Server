@@ -3,6 +3,16 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
+# Ignore .env file
+.env
+
+# Other ignored files
+/target/
+/.idea/
+/*.iml
+
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
