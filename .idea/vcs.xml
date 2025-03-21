@@ -7,6 +7,10 @@
           <option name="issueRegexp" value="\(#(\d+)\)" />
           <option name="linkRegexp" value="https://github.com/rajmehta89/vert.x-/issues/$1" />
         </IssueNavigationLink>
+        <IssueNavigationLink>
+          <option name="issueRegexp" value="\(#(\d+)\)" />
+          <option name="linkRegexp" value="https://github.com/rajmehta89/NMS_Server/issues/$1" />
+        </IssueNavigationLink>
       </list>
     </option>
   </component>
